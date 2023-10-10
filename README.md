@@ -14,7 +14,7 @@ Duarte Vázquez Kevin Alexis. </h1>
 <img src="Resultados/bucle.jpg">
 
 <h3> Mejor Resultado:</h3>
-<img src="Resultados/resultado.jpg">
+<img src="Resultados/resultados.jpg">
 
 <h3> Grafica:</h3>
 <img src="Resultados/grafica.jpg">
